@@ -7,6 +7,5 @@ pip install rich
 ```
 
 <p align="center">
-
-<img  width="25%" height="25%" src="Screenshot (23).png">
+<img src="Screenshot (23).png">
 </p>
