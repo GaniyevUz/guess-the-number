@@ -8,5 +8,6 @@ pip install rich
 
 <p align="center">
 <img src="Screenshot (24).png">
+<hr>
 <img src="Screenshot (23).png">
 </p>
